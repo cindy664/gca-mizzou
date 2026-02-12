@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of Missouri",
+    "abbreviation": "Mizzou",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#F1B82D",
+    "primaryBrandColor": "#000000",
+    "buttonColor": "#000000",
+    "buttonTextColor": null,
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/mizzou.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/mizzou.png",
+    "partner_id": "0014T00000FnQmiQAF",
+    "programName": "Mizzou Global Career Accelerator",
+    "termsandConditionsPolicy": "https://missouri.edu/privacy#:~:text=Providing%20personal%20information%20on%2Dline,automatically%20collect%20your%20profile%20information",
+    "registrationMessage": "Registration is now open.",
+    "credits": "6 Mizzou credits",
+    "startDate": "June 8",
+    "endDate": "July 31"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Missouri",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "International Programs Office: \r\nN52 Memorial Union, Columbia, \r\nMO 65211 USA",
+    "abbreviation": "Mizzou",
+    "phone": "(573) 889-2159",
+    "credits": "6 Mizzou credits",
+    "programFee": "+ 1,800",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Missouri",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTDSC 3101, Section 01",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Missouri",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTDSC 3101, Section 01",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Missouri",
+    "trackTitle": "Data Analytics Track",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTDSC 3101, Section 01",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Missouri",
+    "trackTitle": "Coding for Data Track",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTDSC 3101, Section 01",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "career-discovery",
+    "schoolname": "University of Missouri",
+    "trackTitle": "Career Rotation Track",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTDSC 3101, Section 01",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Mizzou Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(573) 889-2159",
+    "abbreviation": "Mizzou"
+  },
+  {
+    "item": "begin",
+    "credits": "6 Mizzou credits",
+    "abbreviation": "Mizzou",
+    "phone": "(573) 889-2159"
+  }
+]
